@@ -17,6 +17,8 @@ font-family: 'Monoton', cursive;
  padding:0;
  margin:0;
  text-align:center;
+ display: block;
+ align-self: center;
 	
 }
 
@@ -32,6 +34,7 @@ h2	{
 	display: flex;
 	flex-direction: row;
 	align-items: center;
+
 }
 
 .rungt {
@@ -70,7 +73,7 @@ h2	{
 	max-width: 600px;
 	margin-top: 50px;
 	margin-right: 50px;
-	margin-left: 250px;
+	margin-left: 300px;
 	flex-direction: column;
 
 	}
@@ -145,4 +148,162 @@ a 	{
 	margin-left: 20px;
 	margin-bottom: 10px;
 	
+	}
+	
+	@media only screen and (min-device-width : 768px) and (max-device-width : 1150px)  {
+		
+		body	{
+	
+	background-color: WhiteSMoke;
+	
+}
+
+h3	{
+	
+background: url(../images/Sportas.jpg)no-repeat center center;
+ background-size: cover;
+ -webkit-text-fill-color: transparent;
+ -webkit-background-clip: text;
+ -moz-background-clip:text;
+ background-clip:text; 
+font-family: 'Monoton', cursive;
+ font-size:6em;
+ padding:0;
+ margin:0;
+ text-align:center;
+ display: block;
+ align-self: center;
+	
+}
+
+h2	{
+	
+	text-align: center;
+	font-family: 'Nova Flat', cursive;
+	
+}
+
+.both	{
+	
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+
+}
+
+.rungt {
+	
+	display: flex
+	height: 500px;
+	width: 300px;
+	background-color: WhiteSMoke;
+	margin: 30px;
+	margin-left: 60px;
+	font-family: 'Nova Flat', cursive;
+	flex-direction: column;
+		
+}
+	
+	.komand	{
+		
+		margin-left: 20px;
+		
+	}
+	
+	.versus	{
+		
+		display: inline-block;
+		height: 3vh;
+		
+	}
+	
+
+
+.teams	{
+	
+	display: flex;	
+	flex-wrap: wrap;
+	max-height: 500px;
+	max-width: 600px;
+	margin-top: 50px;
+	margin-right: 50px;
+	margin-left: 150px;
+	flex-direction: column;
+
+	}
+
+a 	{
+	
+	height: 350px;
+	width: 200px;
+	
+}
+	
+		
+.card1 {
+	
+	display: inline-block;
+	height: 175px;
+	width: 175px;
+	border: 10px;
+	margin-right: 40px;
+	margin-bottom: 40px;
+		
+}
+
+.alkanautojai	{
+	height: 175px;
+	width: 175px;
+	
+	}
+
+.card2 {
+	
+	display: inline-block;
+	height: 175px;
+	width: 175px;
+	border: 10px;
+		
+}
+
+.ereliai	{
+	height: 175px;
+	width: 175px;
+	
+	}
+
+.card3 {
+	
+	display: inline-block;
+	height: 175px;
+	width: 175px;
+	border: 10px;
+	margin-right: 40px;
+	margin-bottom: 45px;
+		
+}
+
+.grybukai	{
+	height: 175px;
+	width: 175px;
+	
+	}
+
+.card4 {
+	
+	display: inline-block;
+	height: 175px;
+	width: 175px;
+	border: 10px;
+		
+}
+
+.vtmc	{
+	height: 165px;
+	width: 165px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	
+	}
+		
 	}

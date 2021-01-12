@@ -1,0 +1,42 @@
+body	{
+	
+	background-color: black;
+	
+}
+
+
+p {
+	
+		font-family: 'Nova Flat', cursive;
+        font-size: 25px; 
+        font-weight: bold; 
+         font-weight: 800; 
+        -webkit-font-smoothing: antialiased; 
+		color: whitesmoke;
+}
+
+
+
+
+h1	{
+	
+	font-family: 'Bungee Inline', cursive;
+	color: #4d79ff;
+	font-weight: lighter;
+	font-size: 40px;
+	display: block;
+	
+}
+
+
+a {
+	
+	text-decoration: none;
+	font-family: 'Nova Flat', cursive;
+	
+}
+
+a:visited, a:active {
+  color: whitesmoke;
+  
+}

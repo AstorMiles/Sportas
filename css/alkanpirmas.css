@@ -1,0 +1,49 @@
+body	{
+	
+	background-color: black;
+	
+}
+
+
+p {
+	
+		font-family: 'Nova Flat', cursive;
+        font-size: 25px; 
+        font-weight: bold; 
+         font-weight: lighter; 
+        -webkit-font-smoothing: antialiased; 
+		color: whitesmoke;
+}
+
+
+
+
+h1	{
+	
+	font-family: 'Nova Flat', cursive;
+	color: DarkOliveGreen;	
+	font-weight: bold;
+	font-size: 42px;
+	display: block;
+	
+}
+
+
+a {
+	
+	text-decoration: none;
+	font-family: 'Nova Flat', cursive;
+	font-weight: bold;
+	
+}
+
+a:visited, a:active {
+  color: DarkOliveGreen;
+  
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1600px){
+	
+	
+	
+}

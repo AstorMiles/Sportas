@@ -7,14 +7,37 @@ body	{
 h1	{
 	
 	font-family: 'Hanalei Fill', cursive;
-	color: #f2f2f2;	
-	font-weight: 600;
-	font-size: 56px;
+	font-size: 60px;
+	color: whitesmoke;
+	font-weight: lighter;
 	display: block;
-	margin-left: 90px;
+	margin-left: 100px;
+	-webkit-font-smoothing: antialiased; 
 	
 }
 
+h2	{
+	
+	font-family: 'Hanalei Fill', cursive;
+	font-size: 50px;
+	color: whitesmoke;
+	font-weight: lighter;
+	display: block;
+	margin-left: 90px;
+	-webkit-font-smoothing: antialiased; 
+	
+}
+
+h3	{
+
+	font-family: 'Hanalei Fill', cursive;
+	 font-size: 45px; 
+        font-weight: bold; 
+         font-weight: 800; 
+        -webkit-font-smoothing: antialiased; 
+		color: whitesmoke;
+
+}
 
 
 .alklogo	{
@@ -25,17 +48,6 @@ h1	{
 	
 }
 
-p {
-	
-		font-family: 'Bungee Outline', cursive;
-        font-size: 25px; 
-        font-weight: bold; 
-         font-weight: 800; 
-        -webkit-font-smoothing: antialiased; 
-		color: whitesmoke;
-		float: clear;
-	
-}
 
 table, th, td	{
 	
@@ -85,8 +97,11 @@ margin-bottom: -10px;
 a {
 	
 	text-decoration: none;
+	font-family: 'Hanalei Fill', cursive;
+	color: whitesmoke;
 	
 }
+
 
 a:visited, a:active {
   color: whitesmoke;

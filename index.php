@@ -22,10 +22,10 @@
     </ul>
   </aside>
   <div class="teams">
-    <aside class="card1"><a href="alkan.html"><img src="images/alkanautojai.png" class="alkanautojai" alt="alkanautojai"></a></aside>
-    <aside class="card2"><a href="erel.html"><img src="images/ereliai.png" class="ereliai" alt="ereliai"></a></aside>
-    <aside class="card3"><a href="gryb.html"><img src="images/grybukai.png" class="grybukai" alt="grybukai"></a></aside>
-    <aside class="card4"><a href="vtmc.html"><img src="images/vtmc4.png" class="vtmc" alt="vtmc"></a></aside>
+    <aside class="card1"><a href="alkan.php"><img src="images/alkanautojai.png" class="alkanautojai" alt="alkanautojai"></a></aside>
+    <aside class="card2"><a href="erel.php"><img src="images/ereliai.png" class="ereliai" alt="ereliai"></a></aside>
+    <aside class="card3"><a href="gryb.php"><img src="images/grybukai.png" class="grybukai" alt="grybukai"></a></aside>
+    <aside class="card4"><a href="vtmc.php"><img src="images/vtmc4.png" class="vtmc" alt="vtmc"></a></aside>
   </div>
 </div>
 </body>

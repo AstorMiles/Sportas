@@ -4,89 +4,93 @@ body	{
 	
 }
 
+.both	{
+	
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-evenly;
+
+}
+
 h1	{
 	
 font-family: 'Bungee Inline', cursive;
 	color: #4d79ff;	
 	font-weight: 200;
-	font-size: 56px;
+	font-size: 60px;
 	display: block;
 	margin-left: 100px;
 	
 }
 
-
+h2	{
+	
+font-family: 'Bungee Inline', cursive;
+	color: #4d79ff;	
+	font-weight: 200;
+	font-size: 40px;
+	display: block;
+	margin-left: 100px;
+	
+	
+	
+}
 
 .alklogo	{
 	
-	margin-left: 50px;	
+	margin-left: -20%;	
 	align-items: center;
 	display: inline-block;
+	font-family: 'Bungee Inline', cursive;
 	
 }
 
-p {
-	
-		font-family: 'Bungee Outline', cursive;
-        font-size: 25px; 
-        font-weight: bold; 
-         font-weight: 800; 
-        -webkit-font-smoothing: antialiased; 
-		color: whitesmoke;
-		float: clear;
-	
-}
 
 table, th, td	{
 	
 	margin-top: 25px;
 	border: 3px solid #4d79ff;
 	border-collapse: collapse;
-font-family: 'Bungee Inline', cursive;
+	font-family: 'Bungee Inline', cursive;
 	color: #4d79ff;	
-	font-size: 30px;
+	font-size: 18px;
 	text-align: center;
+	width: 250px;
+	margin-right: 20%;
 	
 }
-
-td	{
-	
-	width: 200px;
-		
-}
-
 
 .alkanautojai	{
 	
 	width: 250px;
 	display: inline-block;	
-	margin-left: 100px;	
+	margin-left: 100px;
 }
 
-.alkzaid	{
-	
-	margin-right: 35%;
-	display: inline-block;	
-	float: right;
-	
-}
 
 .pirmas	{
 
 width: 200px;
-height: 160px;
+height: 150px;
 box-sizing: border-box;
-margin-bottom: -26px;
+margin-bottom: -16px;
 
 }
+
 
 a {
 	
 	text-decoration: none;
+	font-family: 'Bungee Inline', cursive;
+	color: #4d79ff;
 	
 }
 
 a:visited, a:active {
-  color: whitesmoke;
+  color: #4d79ff;
+  text-decoration: none;
+	font-family: 'Bungee Inline', cursive;
   
-}
+}	
+	

@@ -14,13 +14,14 @@ body	{
 
 p {
 	
-		font-family: 'Nova Flat', cursive;
+		font-family: 'Frijole', cursive;
+		color: DarkOliveGreen;	
         font-size: 25px; 
         font-weight: bold; 
          font-weight: 800; 
         -webkit-font-smoothing: antialiased; 
-		color: whitesmoke;
 		float: clear;
+		
 	
 }
 
@@ -76,13 +77,314 @@ margin-bottom: -7px;
 
 }
 
+.atgal	{
+
+font-family: 'Frijole', cursive;
+font-size: 36px;
+
+}
+
 a {
 	
 	text-decoration: none;
+	font-family: 'Frijole', cursive;
+	color: DarkOliveGreen;
 	
 }
 
 a:visited, a:active {
-  color: whitesmoke;
+  color: DarkOliveGreen;
   
+}
+
+@media only screen and (min-device-width : 1200px) and (max-device-width : 1600px){
+	
+	
+	body	{
+	
+	background-color: black;
+	
+}
+
+.alklogo	{
+	
+	margin-left: 50px;	
+	align-items: center;
+	display: inline-block;
+	
+}
+
+p {
+	
+		font-family: 'Frijole', cursive;
+		color: DarkOliveGreen;	
+        font-size: 25px; 
+        font-weight: bold; 
+         font-weight: 800; 
+        -webkit-font-smoothing: antialiased; 
+		float: clear;
+		
+	
+}
+
+table, th, td	{
+	
+	margin-top: 25px;
+	border: 3px solid DarkOliveGreen;
+	border-collapse: collapse;
+	font-family: 'Frijole', cursive;
+	color: DarkOliveGreen;	
+	font-size: 18px;
+	text-align: center;
+	
+}
+
+h1	{
+	
+	font-family: 'Frijole', cursive;
+	color: DarkOliveGreen;	
+	font-weight: bold;
+	font-size: 32px;
+	display: block;
+	
+}
+
+.alkanautojai	{
+	
+	width: 175px;
+	display: inline-block;	
+	margin-left: 75px;	
+}
+
+.alkzaid	{
+	
+	margin-right: 10%;
+	display: inline-block;	
+	float: right;
+	
+}
+
+.pirmas	{
+
+width: 200px;
+height: 150px;
+box-sizing: border-box;
+margin-bottom: -7px;
+
+}
+
+.atgal	{
+
+font-family: 'Frijole', cursive;
+font-size: 28px;
+
+}
+
+a {
+	
+	text-decoration: none;
+	font-family: 'Frijole', cursive;
+	color: DarkOliveGreen;
+	
+}
+
+a:visited, a:active {
+  color: DarkOliveGreen;
+  
+}
+	
+}
+
+@media only screen and (min-device-width : 960px) and (max-device-width : 1199px){
+		body	{
+	
+	background-color: black;
+	
+}
+
+.alklogo	{
+	
+	margin-left: 50px;	
+	align-items: center;
+	display: inline-block;
+	
+}
+
+p {
+	
+		font-family: 'Frijole', cursive;
+		color: DarkOliveGreen;	
+        font-size: 25px; 
+        font-weight: bold; 
+         font-weight: 800; 
+        -webkit-font-smoothing: antialiased; 
+		float: clear;
+		
+	
+}
+
+table, th, td	{
+	
+	margin-top: 25px;
+	border: 3px solid DarkOliveGreen;
+	border-collapse: collapse;
+	font-family: 'Frijole', cursive;
+	color: DarkOliveGreen;	
+	font-size: 14px;
+	text-align: center;
+	
+}
+
+h1	{
+	
+	font-family: 'Frijole', cursive;
+	color: DarkOliveGreen;	
+	font-weight: bold;
+	font-size: 32px;
+	display: block;
+	
+}
+
+.alkanautojai	{
+	
+	width: 175px;
+	display: inline-block;	
+	margin-left: 80px;	
+}
+
+.alkzaid	{
+	
+	margin-right: 5%;
+	display: inline-block;	
+	float: right;
+	
+}
+
+.pirmas	{
+
+width: 175px;
+height: 125px;
+box-sizing: border-box;
+margin-bottom: -6px;
+
+}
+
+.atgal	{
+
+font-family: 'Frijole', cursive;
+font-size: 24px;
+
+}
+
+a {
+	
+	text-decoration: none;
+	font-family: 'Frijole', cursive;
+	color: DarkOliveGreen;
+	
+}
+
+a:visited, a:active {
+  color: DarkOliveGreen;
+  
+}
+	
+}
+
+@media only screen and (min-device-width : 760px) and (max-device-width : 959px){
+	
+			body	{
+	
+	background-color: black;
+	
+}
+
+.alklogo	{
+	
+	margin-left: 50px;	
+	align-items: center;
+	display: inline-block;
+	
+}
+
+p {
+	
+		font-family: 'Frijole', cursive;
+		color: DarkOliveGreen;	
+        font-size: 25px; 
+        font-weight: bold; 
+         font-weight: 800; 
+        -webkit-font-smoothing: antialiased; 
+		float: clear;
+		
+	
+}
+
+table, th, td	{
+	
+	margin-top: 50px;
+	border: 3px solid DarkOliveGreen;
+	border-collapse: collapse;
+	font-family: 'Frijole', cursive;
+	color: DarkOliveGreen;	
+	font-size: 12px;
+	text-align: center;
+	
+}
+
+h1	{
+	
+	font-family: 'Frijole', cursive;
+	color: DarkOliveGreen;	
+	font-weight: bold;
+	font-size: 24px;
+	display: block;
+	
+}
+
+.alkanautojai	{
+	
+	width: 125px;
+	display: inline-block;	
+	margin-left: 80px;	
+}
+
+.alkzaid	{
+	
+	margin-right: 5%;
+	display: inline-block;	
+	float: right;
+	
+}
+
+.pirmas	{
+
+width: 140px;
+height: 95px;
+box-sizing: border-box;
+margin-bottom: -6px;
+
+}
+
+.atgal	{
+
+font-family: 'Frijole', cursive;
+font-size: 20px;
+
+
+}
+
+a {
+	
+	text-decoration: none;
+	font-family: 'Frijole', cursive;
+	color: DarkOliveGreen;
+	
+}
+
+a:visited, a:active {
+  color: DarkOliveGreen;
+  
+}
+	
 }

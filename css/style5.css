@@ -27,13 +27,13 @@ h1	{
 
 p {
 	
-		font-family: 'Bungee Outline', cursive;
-        font-size: 25px; 
+		font-family: 'Play', sans-serif;
+        font-size: 38px; 
         font-weight: bold; 
          font-weight: 800; 
         -webkit-font-smoothing: antialiased; 
-		color: whitesmoke;
 		float: clear;
+		color: #800000;	
 	
 }
 
@@ -89,6 +89,6 @@ a {
 }
 
 a:visited, a:active {
-  color: whitesmoke;
+  color: #800000;
   
 }
