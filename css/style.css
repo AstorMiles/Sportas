@@ -1,0 +1,148 @@
+body	{
+	
+	background-color: WhiteSMoke;
+	
+}
+
+h3	{
+	
+background: url(../images/Sportas.jpg)no-repeat center center;
+ background-size: cover;
+ -webkit-text-fill-color: transparent;
+ -webkit-background-clip: text;
+ -moz-background-clip:text;
+ background-clip:text; 
+font-family: 'Monoton', cursive;
+ font-size:10em;
+ padding:0;
+ margin:0;
+ text-align:center;
+	
+}
+
+h2	{
+	
+	text-align: center;
+	font-family: 'Nova Flat', cursive;
+	
+}
+
+.both	{
+	
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.rungt {
+	
+	display: flex
+	height: 500px;
+	width: 400px;
+	background-color: WhiteSMoke;
+	margin: 55px;
+	margin-left: 250px;
+	font-family: 'Nova Flat', cursive;
+	flex-direction: column;
+		
+}
+	
+	.komand	{
+		
+		margin-left: 50px;
+		
+	}
+	
+	.versus	{
+		
+		display: inline-block;
+		height: 4vh;
+		
+	}
+	
+
+
+.teams	{
+	
+	display: flex;	
+	flex-wrap: wrap;
+	max-height: 500px;
+	max-width: 600px;
+	margin-top: 50px;
+	margin-right: 50px;
+	margin-left: 250px;
+	flex-direction: column;
+
+	}
+
+a 	{
+	
+	height: 350px;
+	width: 200px;
+	
+}
+	
+		
+.card1 {
+	
+	display: inline-block;
+	height: 250px;
+	width: 200px;
+	border: 10px;
+	margin-right: 40px;
+		
+}
+
+.alkanautojai	{
+	height: 200px;
+	width: 200px;
+	
+	}
+
+.card2 {
+	
+	display: inline-block;
+	height: 250px;
+	width: 200px;
+	border: 10px;
+		
+}
+
+.ereliai	{
+	height: 200px;
+	width: 200px;
+	
+	}
+
+.card3 {
+	
+	display: inline-block;
+	height: 250px;
+	width: 200px;
+	border: 10px;
+	margin-right: 40px;
+		
+}
+
+.grybukai	{
+	height: 200px;
+	width: 200px;
+	
+	}
+
+.card4 {
+	
+	display: inline-block;
+	height: 250px;
+	width: 200px;
+	border: 10px;
+		
+}
+
+.vtmc	{
+	height: 180px;
+	width: 180px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	
+	}
